@@ -1,0 +1,16 @@
+{
+  "claims": [
+    {
+      "id": "claim1",
+      "text": "",
+      "source_paper_ids": [
+        "p1",
+        "p2"
+      ],
+      "supporting_run_ids": [],
+      "scope": "",
+      "boundary": "",
+      "status": "planned"
+    }
+  ]
+}

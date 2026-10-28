@@ -1,0 +1,9 @@
+{
+  "synthetic": true,
+  "training_executed": false,
+  "run_id": "synthetic_run_009",
+  "arm": "m2",
+  "seed": 2,
+  "split": "dev",
+  "metric": 0.696
+}

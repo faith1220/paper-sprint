@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "project_name": "untitled",
+  "mode": "journal-practical",
+  "synthetic": false,
+  "research_question": "",
+  "practical_contribution": "",
+  "target": {
+    "journal": "",
+    "ranking_system": "unspecified",
+    "quartile": "Q1/Q2",
+    "ranking_year": ""
+  },
+  "hardware": {
+    "gpu": "A100 40GB",
+    "gpu_count": 1,
+    "note": "Editable example, not a requirement"
+  },
+  "budget": {
+    "max_gpu_hours": 24.0,
+    "max_runs": 30,
+    "prior_gpu_hours": 0.0,
+    "prior_runs": 0
+  },
+  "candidate_limit": 3,
+  "data": {
+    "dataset": "",
+    "version": "",
+    "license": "",
+    "selection_split": "dev",
+    "test_policy": "final-only",
+    "splits": {
+      "train": {
+        "manifest_path": "artifacts/train_ids.json",
+        "sha256": ""
+      },
+      "dev": {
+        "manifest_path": "artifacts/dev_ids.json",
+        "sha256": ""
+      },
+      "test": {
+        "manifest_path": "artifacts/test_ids.json",
+        "sha256": ""
+      }
+    }
+  },
+  "metric": {
+    "name": "",
+    "higher_is_better": true,
+    "unit": ""
+  }
+}

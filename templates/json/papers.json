@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "title": "",
+    "citation": "",
+    "url": "",
+    "evidence_location": "",
+    "mechanism": "",
+    "inputs": "",
+    "outputs": "",
+    "assumptions": "",
+    "limitations": "",
+    "code": {
+      "url": "",
+      "reuse": false,
+      "license": "not-applicable",
+      "license_checked": false,
+      "reuse_allowed": false,
+      "attribution": ""
+    }
+  },
+  {
+    "id": "p2",
+    "title": "",
+    "citation": "",
+    "url": "",
+    "evidence_location": "",
+    "mechanism": "",
+    "inputs": "",
+    "outputs": "",
+    "assumptions": "",
+    "limitations": "",
+    "code": {
+      "url": "",
+      "reuse": false,
+      "license": "not-applicable",
+      "license_checked": false,
+      "reuse_allowed": false,
+      "attribution": ""
+    }
+  }
+]

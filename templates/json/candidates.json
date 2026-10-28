@@ -1,0 +1,40 @@
+{
+  "selected_id": "c1",
+  "items": [
+    {
+      "id": "c1",
+      "baseline": {
+        "name": "",
+        "paper_id": "p1",
+        "why_strong": ""
+      },
+      "modules": [
+        {
+          "id": "m1",
+          "paper_id": "p1",
+          "mechanism": "",
+          "interface": "",
+          "adaptation": "",
+          "complementarity": ""
+        },
+        {
+          "id": "m2",
+          "paper_id": "p2",
+          "mechanism": "",
+          "interface": "",
+          "adaptation": "",
+          "complementarity": ""
+        }
+      ],
+      "selection_reason": "",
+      "expected_benefit": "",
+      "risks": "",
+      "nearest_neighbors": [],
+      "search_log": {
+        "queries": [],
+        "searched_at": "",
+        "sources": []
+      }
+    }
+  ]
+}

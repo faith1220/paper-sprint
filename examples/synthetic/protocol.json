@@ -1,0 +1,31 @@
+{
+  "protocol_hash": "e52a5d0b6f45f3434fbb59ef0fbcad2b6876755b7355afc6436115f2d71488e6",
+  "created_at": "2026-10-27T14:12:30.797135+00:00",
+  "arms": [
+    {
+      "id": "baseline",
+      "modules": []
+    },
+    {
+      "id": "m1",
+      "modules": [
+        "m1"
+      ]
+    },
+    {
+      "id": "m2",
+      "modules": [
+        "m2"
+      ]
+    },
+    {
+      "id": "m1+m2",
+      "modules": [
+        "m1",
+        "m2"
+      ]
+    }
+  ],
+  "expected_development_runs": 12,
+  "expected_final_runs": 6
+}

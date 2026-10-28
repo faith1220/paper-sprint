@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "project_name": "SYNTHETIC workflow demonstration",
+  "mode": "journal-practical",
+  "synthetic": true,
+  "research_question": "SYNTHETIC: can complementary toy mechanisms improve a fixed toy baseline?",
+  "practical_contribution": "SYNTHETIC demonstration of protocol bookkeeping, not a scientific result",
+  "target": {
+    "journal": "SYNTHETIC unnamed journal",
+    "ranking_system": "JCR (example only)",
+    "quartile": "Q2 (example only)",
+    "ranking_year": "2026 (not verified)"
+  },
+  "hardware": {
+    "gpu": "A100 40GB",
+    "gpu_count": 1,
+    "note": "Editable example, not a requirement"
+  },
+  "budget": {
+    "max_gpu_hours": 24.0,
+    "max_runs": 40
+  },
+  "candidate_limit": 3,
+  "data": {
+    "dataset": "SYNTHETIC toy dataset",
+    "version": "1",
+    "license": "SYNTHETIC generated IDs, CC0",
+    "selection_split": "dev",
+    "test_policy": "final-only",
+    "splits": {
+      "train": {
+        "manifest_path": "artifacts/train_ids.json",
+        "sha256": "739298a17e80b9c3e7ec62653cb2d6441523c35b393bd3e38aa9275887722fad"
+      },
+      "dev": {
+        "manifest_path": "artifacts/dev_ids.json",
+        "sha256": "22a6a93637ee59de3186da40ba04f0e8488091b1f9efdfb29f365a92db3ae9b8"
+      },
+      "test": {
+        "manifest_path": "artifacts/test_ids.json",
+        "sha256": "4144715ae369c829e85019438a397f377a34205ddf98aeec249ba5df3fec9508"
+      }
+    }
+  },
+  "metric": {
+    "name": "SYNTHETIC toy score",
+    "higher_is_better": true,
+    "unit": "arbitrary"
+  }
+}

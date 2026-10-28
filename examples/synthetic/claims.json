@@ -1,0 +1,23 @@
+{
+  "claims": [
+    {
+      "id": "claim1",
+      "text": "SYNTHETIC toy combination exceeds the toy baseline",
+      "source_paper_ids": [
+        "p1",
+        "p2"
+      ],
+      "supporting_run_ids": [
+        "synthetic_run_013",
+        "synthetic_run_014",
+        "synthetic_run_015",
+        "synthetic_run_016",
+        "synthetic_run_017",
+        "synthetic_run_018"
+      ],
+      "scope": "SYNTHETIC workflow demonstration only",
+      "boundary": "Not real scientific evidence; no training or retrieval occurred",
+      "status": "supported"
+    }
+  ]
+}

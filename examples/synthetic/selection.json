@@ -1,0 +1,17 @@
+{
+  "arm": "m1+m2",
+  "reason": "SYNTHETIC: full combination has the best toy development mean",
+  "protocol_hash": "e52a5d0b6f45f3434fbb59ef0fbcad2b6876755b7355afc6436115f2d71488e6",
+  "development_ledger_hash": "591f2aae2be5292b10fce96fdcd1223f934fe8476e3e0872a198124e2bc92279",
+  "created_at": "2026-10-27T14:12:31.211804+00:00",
+  "development_means": {
+    "baseline": 0.7,
+    "m1": 0.712,
+    "m2": 0.695,
+    "m1+m2": 0.724
+  },
+  "gain": 0.02400000000000002,
+  "meets_min_gain": true,
+  "simplification_rule": "Choose fewer mechanisms when development means are within 0.005; preserve negative modules",
+  "selection_hash": "29d064958ee993cf39a316330d0aebcd897814758cc64d8a355f48721c6e0ecb"
+}

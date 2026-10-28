@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "title": "SYNTHETIC p1 title: fictional demonstration only",
+    "citation": "SYNTHETIC p1 citation: fictional demonstration only",
+    "url": "https://example.invalid/synthetic/p1",
+    "evidence_location": "SYNTHETIC p1 evidence_location: fictional demonstration only",
+    "mechanism": "SYNTHETIC p1 mechanism: fictional demonstration only",
+    "inputs": "SYNTHETIC p1 inputs: fictional demonstration only",
+    "outputs": "SYNTHETIC p1 outputs: fictional demonstration only",
+    "assumptions": "SYNTHETIC p1 assumptions: fictional demonstration only",
+    "limitations": "SYNTHETIC p1 limitations: fictional demonstration only",
+    "code": {
+      "url": "",
+      "reuse": false,
+      "license": "not-applicable",
+      "license_checked": false,
+      "reuse_allowed": false,
+      "attribution": ""
+    }
+  },
+  {
+    "id": "p2",
+    "title": "SYNTHETIC p2 title: fictional demonstration only",
+    "citation": "SYNTHETIC p2 citation: fictional demonstration only",
+    "url": "https://example.invalid/synthetic/p2",
+    "evidence_location": "SYNTHETIC p2 evidence_location: fictional demonstration only",
+    "mechanism": "SYNTHETIC p2 mechanism: fictional demonstration only",
+    "inputs": "SYNTHETIC p2 inputs: fictional demonstration only",
+    "outputs": "SYNTHETIC p2 outputs: fictional demonstration only",
+    "assumptions": "SYNTHETIC p2 assumptions: fictional demonstration only",
+    "limitations": "SYNTHETIC p2 limitations: fictional demonstration only",
+    "code": {
+      "url": "",
+      "reuse": false,
+      "license": "not-applicable",
+      "license_checked": false,
+      "reuse_allowed": false,
+      "attribution": ""
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "estimated_gpu_hours_per_run": 0.5,
+  "development_split": "dev",
+  "final_split": "test",
+  "final_arms": "baseline-and-selected",
+  "baseline_check": {
+    "reference_metric": null,
+    "tolerance": null,
+    "reference_context": ""
+  },
+  "comparability": {
+    "preprocessing": "",
+    "backbone": "",
+    "training_budget": "",
+    "metric_protocol": "",
+    "tuning_budget": ""
+  },
+  "stop_rules": {
+    "max_failed_runs": 3,
+    "min_gain": 0.0,
+    "simplify_when": "",
+    "negative_result_policy": "Record all attempted runs, failures and non-improvements."
+  }
+}
